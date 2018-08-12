@@ -1,0 +1,11 @@
+{
+  "name": "learningjs",
+  "version": "0.0.1",
+  "description": "files to help learn javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "David Mallett",
+  "license": "ISC"
+}
