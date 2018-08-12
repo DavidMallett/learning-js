@@ -21,7 +21,7 @@ Let's break down what just happened:
 2. It then executed the **log** function of the **console** object, which is built in to javascript and automatically accessible at any time. This is also referred to as a **global**
 3. The function took the text "Hello world! This is a test!" and printed it in the terminal 
 
-Most of the time, you won't A variable is a word or symbol that represents some sort of value or piece of data/information - a string, a number, or something more complex. Anything can be a variable; to declare a variable in javascript, use the word `var`, then a space and the word/symbol that will represent the variable, followed by = (equals sign) and the value you want the string to represent. Some examples:  
+A variable is a word or symbol that represents some sort of value or piece of data/information - a string, a number, or something more complex. Anything can be a variable; to declare a variable in javascript, use the word `var`, then a space and the word/symbol that will represent the variable, followed by = (equals sign) and the value you want the string to represent. Some examples:  
 
 `var number = 12;`  
 `var word = "platypus";`  

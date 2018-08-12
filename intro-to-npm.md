@@ -31,3 +31,10 @@ To run javascript (.js) files, simply run `node nameOfJavascriptFile.js`.
 
 6. Open a new file in your IDE/text editor and save it as `learning-js/src/js/hello.js`.
 
+7. Write a simple "hello world" program:
+  
+Open a new file in VSCode, then type:  
+
+`console.log("hello!");`
+  
+and save it. Then, in Nodejs Command Prompt, run `node hello.js` to run your first app! You need to be in the same folder as where you saved the file - if it doesn't work, run `pwd` to see your current directory, `cd foldername` to move into a folder in the current directory, `cd ..` to go up a level, and `cd ~` to go to your home directory.

@@ -39,8 +39,3 @@ npm i -g eslint
 ```
 
 This will install, respectively, Typescript (most modern way to use Javascript; see https://www.typescriptlang.org/ for more info), Lodash (extremely useful Javascript library which gives you a lot of flexibility when working with arrays and objects - https://lodash.com/ for more info), ts-node (tool that combines the tsc command from Typescript and the node command from Node - more info https://www.npmjs.com/package/ts-node ) and Angular (most used framework for developing UI web apps - https://angular.io/ ). You are going to need/want these tools eventually.
-
-Then, you're ready to start coding! I suggest reading the various "getting started" guides, and writing a simple "hello world" program.
-Open a new file in VSCode, type:
-`console.log("hello!");`
-and save it as "hello.js". Then, in Terminal, run `node hello.js` to run your first app! You need to be in the same folder as where you saved the file - if it doesn't work, run `pwd` to see your current directory, `cd foldername` to move into a folder in the current directory, `cd ..` to go up a level, and `cd ~` to go to your home directory 
