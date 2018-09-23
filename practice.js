@@ -21,6 +21,7 @@ var test9 = "{1}{B/P}{B/P}"; // Dismember
 /**
  * Remember, ALL the information you need to know is on this page:
  * https://www.w3schools.com/jsref/jsref_obj_string.asp
+ * https://www.w3schools.com/jsref/jsref_obj_array.asp
  */
 
 function evaluate(input) {
