@@ -31,6 +31,6 @@ https://github.com/DavidMallett/learning-js/blob/master/lesson-2-classes-interfa
 
 ##### Lesson 3: inserting text into a webpage and manipulating the DOM
 
-
+https://github.com/DavidMallett/learning-js/blob/master/lesson-3-inserting-text.md
 
 Questions? Comments? Conerns? Post them, or message or email me!
