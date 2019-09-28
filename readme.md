@@ -22,6 +22,15 @@ You should complete the actions in the "Getting Started" section and you should 
 Then you can proceed to...
 
 ##### Lesson 1: types, functions, var, and console
+
 https://github.com/DavidMallett/learning-js/blob/master/lesson-1-var-console-string-function.md
+
+##### Lesson 2: interfaces, classes, and abstract classes
+
+https://github.com/DavidMallett/learning-js/blob/master/lesson-2-classes-interfaces.md
+
+##### Lesson 3: inserting text into a webpage and manipulating the DOM
+
+
 
 Questions? Comments? Conerns? Post them, or message or email me!
